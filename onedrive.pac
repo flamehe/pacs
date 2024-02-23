@@ -54,7 +54,7 @@ var domains = {
     "storage.msn.com": 1
 };
  
-var proxy = "HTTP 127.0.0.1:10809";
+var proxy = "PROXY 127.0.0.1:10809";
  
 var direct = 'DIRECT;';
  
